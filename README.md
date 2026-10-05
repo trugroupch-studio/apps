@@ -4,15 +4,6 @@
 
 [English](#contents) | [日本語](#日本語版) | [Deutsch](#deutsche-version)
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Vocabulary Apps](#vocabulary-apps)
@@ -64,6 +55,12 @@
 - [Anki](https://apps.ankiweb.net/) - Powerful spaced repetition flashcard system.
 - [Quizlet](https://quizlet.com/) - Create and study German flashcard sets.
 - [Brainscape](https://www.brainscape.com/) - Adaptive flashcards for German learning.
+
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
 
 ## Contributing
 
@@ -192,3 +189,24 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 ### Beitragen
 
 Beiträge sind willkommen! Bitte lesen Sie zuerst die [Beitragsrichtlinien](CONTRIBUTING.md).
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [flashcards](https://github.com/awesome-german/flashcards): Best flashcard tools, decks, and spaced repetition strategies for memorizing German words and phrases.
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+- [ai-tools](https://github.com/awesome-german/ai-tools): AI-powered tools and chatbots that personalize German learning and automate feedback.
+- [learning-tools](https://github.com/awesome-german/learning-tools): Apps and materials for German language and its comparison.
+- [websites](https://github.com/awesome-german/websites): Trusted websites, online courses, and resources for mastering German from beginner to advanced.
+- [kids](https://github.com/awesome-german/kids): Fun and interactive German learning materials designed specifically for children and beginners.
+
+<!-- END gh-mutual-linking -->
