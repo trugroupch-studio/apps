@@ -20,6 +20,7 @@
 - [Memrise](https://www.memrise.com/) - Learn German vocabulary with user-generated courses and spaced repetition.
 - [Drops](https://languagedrops.com/) - Visual vocabulary learning with 5-minute sessions.
 - [Der Die Das](https://der-die-das.com/) - Focus on German articles and noun gender.
+- [Worio](https://worio.app/) - Save the German words you meet in emails, letters and articles, each explained in English, for learners at B1 to C1 (free, with an optional paid Premium subscription).
 
 ## Grammar Apps
 
